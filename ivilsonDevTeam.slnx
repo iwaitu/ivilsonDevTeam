@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/docs/" />
+  <Folder Name="/src/">
+    <Project Path="src/DevTeam.Agents/DevTeam.Agents.csproj" Id="c590830d-64c0-4ee8-a54c-f0c9ec47caae" />
+    <Project Path="src/DevTeam.App/DevTeam.App.csproj" Id="d839a45d-64de-4be6-ab06-cfd7acbd674e" />
+    <Project Path="src/DevTeam.Contracts/DevTeam.Contracts.csproj" Id="a74cb12b-5d77-4a81-87ed-5bd44991a812" />
+    <Project Path="src/DevTeam.Core/DevTeam.Core.csproj" />
+    <Project Path="src/DevTeam.Infrastructure/DevTeam.Infrastructure.csproj" Id="025290ad-0100-4565-9f61-aebc7ecc0424" />
+  </Folder>
+  <Folder Name="/test/">
+    <Project Path="test/DevTeam.Tests/DevTeam.Tests.csproj" Id="6f2c8653-1b56-4c8c-a524-2f1429a92fe1" />
+  </Folder>
+</Solution>
