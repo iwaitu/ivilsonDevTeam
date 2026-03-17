@@ -5,6 +5,7 @@
     <Project Path="src/DevTeam.App/DevTeam.App.csproj" Id="d839a45d-64de-4be6-ab06-cfd7acbd674e" />
     <Project Path="src/DevTeam.Contracts/DevTeam.Contracts.csproj" Id="a74cb12b-5d77-4a81-87ed-5bd44991a812" />
     <Project Path="src/DevTeam.Core/DevTeam.Core.csproj" />
+    <Project Path="src/DevTeam.Gateway/DevTeam.Gateway.csproj" Id="0f5eea6c-c7b7-4e73-b40d-b0f2783111da" />
     <Project Path="src/DevTeam.Infrastructure/DevTeam.Infrastructure.csproj" Id="025290ad-0100-4565-9f61-aebc7ecc0424" />
   </Folder>
   <Folder Name="/test/">
